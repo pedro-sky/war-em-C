@@ -1,2 +1,12 @@
 # war-em-C
-desenvolvimento do jogo WAR em linguagem C, objetivando o desenvolvimento de conhecimentos sobre programação e lógica
+## 📌 Objetivos
+Aprofundar conhecimentos sobre programação, lógica e uso de ferramentas e tecnologias principais
+Desenvolvimento de projetos iniciais
+
+## 🚀 Tecnologias
+linguagem C
+
+## 📌 Funcionalidades
+cadastrar informações para o jogo
+fazer jogadas em turnos
+
